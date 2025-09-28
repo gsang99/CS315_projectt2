@@ -1,0 +1,3 @@
+C:/Users/bakeu/Downloads/reclistsStudentVersion (1)/reclistsStudentVersion/cmake-build-debug/CMakeFiles/reclistsStudentVersion.dir
+C:/Users/bakeu/Downloads/reclistsStudentVersion (1)/reclistsStudentVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bakeu/Downloads/reclistsStudentVersion (1)/reclistsStudentVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
